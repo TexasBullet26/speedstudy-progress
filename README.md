@@ -2,9 +2,9 @@
 
 ## Progress
 
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./template/template.md) to make your own copy and add a link to it here.
+If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./TexasBullet26-progress/template/template.md) to make your own copy and add a link to it here.
 
-* [TexasBullet26](./2018/progress/progress.md)
+* [TexasBullet26](./TexasBullet26-progress/2018/progress/progress.md)
 
 ## Abstract
 
@@ -19,9 +19,9 @@ My goal is to see how many points I can rack up by December 31, 2018.
 
 ## Rules
 
-1. Always be working on one course.
-1. Add bonus objectives from bonus list as often as desired.
-1. All Assignments must be complete for course to be considered complete.
+1. *Always be working on one course.*
+1. *Add bonus objectives from bonus list as often as desired.*
+1. *All Assignments must be complete for course to be considered complete.*
 
 ## Bonus List
 
