@@ -2,9 +2,9 @@
 
 ## Progress
 
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./TexasBullet26-progress/template/template.md) to make your own copy and add a link to it here.
+If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./docs/template/template.md) to make your own copy and add a link to it here.
 
-* [TexasBullet26](./TexasBullet26-progress/2018/progress/progress.md)
+* [TexasBullet26-progress](./TexasBullet26-progress/2018/progress/progress.md)
 
 ## Abstract
 
@@ -15,7 +15,7 @@ Additionally, I'm including a variety of "bonus point" opportunities for reading
 My goal is to see how many points I can rack up by December 31, 2018.
 
 
-**Note:** There are 5 different course lists available in the [course-paths](course-paths) subdirectory if you'd like to clone this for your own use and swap out a different path for those I've chosen. The MITOCW paths will likely require book purchase (or borrow), the non-MITOCW paths are completely free, no book purchase necessary to take the course. There are book lists for if you're looking for "bonus books" to read in [book-lists](book-lists.md) some are freely available online (and I've included links to where to find them) others (towards the bottom of the list) are not free, you'll have to hit google or amazon yourself to find them.
+**Note:** There are 5 different course lists available in the [course-paths](./Resources/course-paths) subdirectory if you'd like to clone this for your own use and swap out a different path for those I've chosen. The MITOCW paths will likely require book purchase (or borrow), the non-MITOCW paths are completely free, no book purchase necessary to take the course. There are book lists for if you're looking for "bonus books" to read in [Book-Lists](./Resources/Book-Lists.md) some are freely available online (and I've included links to where to find them) others (towards the bottom of the list) are not free, you'll have to hit google or amazon yourself to find them.
 
 ## Rules
 

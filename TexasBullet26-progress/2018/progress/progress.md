@@ -6,16 +6,16 @@ In each folder, separated by year, are my notes, etc related to what I'm studyin
 
 ## 2018 Progress
 
+Courses In Progress: 1 (CS50)
 Courses Completed: 0  
-Total Points earned: 0
+Total Points earned: 20
 
 | Date Finished | Activity  | Points | Links                                                                                                         |
 | ------------- | --------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-|               |        |        |          |
-|               |        |        |          |
-|               |        |        |          |
-|               |        |        |          |
-|               |        |        |          |
+| 01/05/2017    | Physical Activity   | 10       |               |
+| 01/06/2017    | Physical Activity   | 10       |               |                           | 01/07/2017      |                     |          |               |
+|               |                     |          |               |
+|               |                     |          |               |
 
 ### Computer Science / Web Development
 
@@ -47,8 +47,6 @@ Total Points earned: 0
 
 ### Data Science
 
-**For those following the Data Science Intensive (Free Version) path.**
-
 * [ ] [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 * [ ] [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
@@ -57,47 +55,73 @@ Total Points earned: 0
 
 ### Mathematics
 
+**College Algebra**
+
 * [ ] [College Algebra](https://openstax.org/details/books/college-algebra)
+
+**Pre-Cal**
 
 * [ ] [Precalculus](https://openstax.org/details/books/precalculus)
 
+**Linear Algebra**
+
 * [ ] [A First Course in Linear Algebra](http://linear.ups.edu)
+
+**Linear Algebra**
+
+* [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 * [ ] [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 * [ ] [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
+**Calculus**
+
 * [ ] [Calculus](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+
+**Single Variable Calculus**
+
+* [ ] [Differential Equations](http://tutorial.math.lamar.edu/download.aspx)
+
+**Discrete Math**
+
+* [ ] [Discrete Mathematics](http://home.iitk.ac.in/%7Earlal/book/mth202.pdf)
 
 * [ ] [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 
 * [ ] [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 
-* [ ] [Differential Equations](http://tutorial.math.lamar.edu/download.aspx)
-
-* [ ] [Discrete Mathematics](http://home.iitk.ac.in/%7Earlal/book/mth202.pdf)
-
 * [ ] [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
+
+**Multivariable Calculus**
+
+* [ ] [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
+
+**Probability**
+
+* [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
 
 ### MITOCW Computer Science
 
+**Introduction to CS**
+
 * [ ] [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+**Discrete Math**
+
+* [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+
+**Algorithms**
+
+* [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 * [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 * [ ] [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)
 
-* [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-
-* [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-
-* [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-
 * [ ] [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 * [ ] [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
-
-* [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 * [ ] [Network Optimization](https://ocw.mit.edu/courses/sloan-school-of-management/15-082j-network-optimization-fall-2010/)
 
@@ -122,8 +146,6 @@ Total Points earned: 0
 ### MITOCW Physics
 
 * [ ] [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
-
-* [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 * [ ] [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/)
 
