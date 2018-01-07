@@ -2,20 +2,20 @@
 
 In each folder, separated by year, are my notes, etc related to what I'm studying, doing, learning...
 
-## 2018
+[OSSU PROFILE](#/profile/XDxnW02MhRTXA6sdvCwaoUkahi73)
 
-## Progress
+## 2018 Progress
 
 Courses Completed: 0  
 Total Points earned: 0
 
 | Date Finished | Activity  | Points | Links                                                                                                         |
 | ------------- | --------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-|     |  |      |                 |
-|     |  |      |  |
-|               |           |        |                                                                                                               |
-|               |           |        |                                                                                                               |
-|               |           |        |                                                                                                               |
+|               |        |        |          |
+|               |        |        |          |
+|               |        |        |          |
+|               |        |        |          |
+|               |        |        |          |
 
 ### Computer Science / Web Development
 
@@ -49,10 +49,6 @@ Total Points earned: 0
 
 **For those following the Data Science Intensive (Free Version) path.**
 
-* [ ] [College Algebra](https://openstax.org/details/books/college-algebra)
-
-* [ ] [Precalculus](https://openstax.org/details/books/precalculus)
-
 * [ ] [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 * [ ] [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
@@ -60,6 +56,10 @@ Total Points earned: 0
 * [ ] [R for Data Science](http://r4ds.had.co.nz/)
 
 ### Mathematics
+
+* [ ] [College Algebra](https://openstax.org/details/books/college-algebra)
+
+* [ ] [Precalculus](https://openstax.org/details/books/precalculus)
 
 * [ ] [A First Course in Linear Algebra](http://linear.ups.edu)
 
@@ -103,19 +103,15 @@ Total Points earned: 0
 
 ### MITOCW Mathematics
 
+* [ ] [Algebra I](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/)
+
 * [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-
-* [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-
-* [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
 * [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 * [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 * [ ] [Analysis I](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)
-
-* [ ] [Algebra I](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/)
 
 * [ ] [Algorithmic Aspects of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-409-algorithmic-aspects-of-machine-learning-spring-2015/)
 
