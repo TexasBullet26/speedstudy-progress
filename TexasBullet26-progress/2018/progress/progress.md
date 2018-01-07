@@ -150,3 +150,137 @@ Total Points earned: 0
 * [ ] [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0)
 
 * [ ] [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book)
+
+### Spanish (Duolingo)
+
+* [ ] [Basics 1](https://www.duolingo.com/skill/es/Basics-1)
+
+* [ ] [Phrases]()
+
+* [ ] [Basics 2]()
+
+* [ ] [Food]()
+
+* [ ] [Animals]()
+
+* [ ] [Flirting]()
+
+* [ ] [Idioms]()
+
+* [ ] [Possession]()
+
+**Checkpoint**
+
+* [ ] [Clothing]()
+
+* [ ] [Questions]()
+
+* [ ] [Present 1]()
+
+* [ ] [Food 2]()
+
+* [ ] [Family]()
+
+* [ ] [Sizes]()
+
+* [ ] [Household]()
+
+* [ ] [Occupation]()
+
+* [ ] [Time]()
+
+* [ ] [Adject. 1]()
+
+**Checkpoint**
+
+* [ ] [Present 2]()
+
+* [ ] [Determin.]()
+
+* [ ] [Adverbs]()
+
+* [ ] [Objects]()
+
+* [ ] [To Be]()
+
+* [ ] [Places]()
+
+* [ ] [People]()
+
+* [ ] [Obj. Pron.]()
+
+* [ ] [Numbers]()
+
+* [ ] [Past Tense]()
+
+* [ ] [Present 3]()
+
+* [ ] [V. Inf. 1]()
+
+* [ ] [Ir Future]()
+
+**Checkpoint**
+
+* [ ] [Countries]()
+
+* [ ] [Adject. 2]()
+
+* [ ] [Pronouns]()
+
+* [ ] [Directions]()
+
+* [ ] [Education]()
+
+* [ ] [Vocab 1]()
+
+* [ ] [Participle]()
+
+* [ ] [Feelings]()
+
+* [ ] [Pres. Per.]()
+
+* [ ] [Past Per.]()
+
+* [ ] [Nature]()
+
+* [ ] [Vocab 2]()
+
+* [ ] [V. Inf. 2]()
+
+* [ ] [Sports]()
+
+* [ ] [Medical]()
+
+* [ ] [Gerund]()
+
+* [ ] [Business]()
+
+* [ ] [Communic.]()
+
+* [ ] [Haber]()
+
+* [ ] [Spiritual]()
+
+* [ ] [Future]()
+
+* [ ] [Arts]()
+
+* [ ] [Fut. Per]()
+
+* [ ] [Politics]()
+
+* [ ] [Subj/Imper]()
+
+* [ ] [Science]()
+
+* [ ] [V. Modal]()
+
+* [ ] [V. Cond.]()
+
+* [ ] [Past Imp.]()
+
+* [ ] [Subj. Past]()
+
+* [ ] [Vocab 3]()
+
+* [ ] [Cond. Per]()

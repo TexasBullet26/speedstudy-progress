@@ -9,4 +9,4 @@ Total Points earned:
 | ------------- | -------- | ------ | ----- |
 |               |          |        |       |
 
-<Copy a course sequence from [course-paths](../../course-paths)] and put it here for a checklist of courses to complete during the year>
+<Copy a course sequence from [course-paths](../../course-paths) and put it here for a checklist of courses to complete during the year>
